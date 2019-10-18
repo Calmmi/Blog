@@ -36,13 +36,17 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'news',
+    'users',
+    'doc',
+    'video',
 ]
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
-    'django.middleware.csrf.CsrfViewMiddleware',
+    # 'django.middleware.csrf.CsrfViewMiddleware',
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
@@ -63,7 +67,7 @@ TEMPLATES = [
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
             ],
-            'builtins':['django.templatetags.static'],
+            'builtins':['django.templatetags.static'],  # 不用再末模板中添加load
         },
     },
 ]
@@ -82,6 +86,13 @@ DATABASES = {
         },
     }
 }
+
+
+# 将用户的session保存到redis中
+SESSION_ENGINE = "django.contrib.sessions.backends.cache"
+# 指定缓存redis的别名
+SESSION_CACHE_ALIAS = "session"
+
 
 # 在settings.py文件中指定redis配置
 CACHES = {
@@ -116,10 +127,7 @@ CACHES = {
     },
 }
 
-# 将用户的session保存到redis中
-SESSION_ENGINE = "django.contrib.sessions.backends.cache"
-# 指定缓存redis的别名
-SESSION_CACHE_ALIAS = "session"
+
 
 # 在setting.py文件中加入如下配置：
 # 配置日志器，记录网站的日志信息

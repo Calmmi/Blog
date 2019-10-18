@@ -1,0 +1,174 @@
+INFO 2019-10-14 15:23:05,247 basehttp 154 "GET / HTTP/1.1" 200 16286
+WARNING 2019-10-14 15:23:05,750 basehttp 154 "GET /static/admin/css/fonts.css HTTP/1.1" 404 1681
+WARNING 2019-10-18 20:22:50,049 log 228 Not Found: /pupil/
+WARNING 2019-10-18 20:22:50,051 basehttp 154 "GET /pupil/ HTTP/1.1" 404 2023
+INFO 2019-10-18 20:22:52,508 basehttp 154 "GET /index HTTP/1.1" 301 0
+INFO 2019-10-18 20:22:52,621 basehttp 154 "GET /index/ HTTP/1.1" 200 16876
+WARNING 2019-10-18 20:22:52,718 log 228 Not Found: /css/base/reset.css
+WARNING 2019-10-18 20:22:52,724 log 228 Not Found: /css/base/common.css
+WARNING 2019-10-18 20:22:52,726 basehttp 154 "GET /css/base/reset.css HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:22:52,727 basehttp 154 "GET /css/base/common.css HTTP/1.1" 404 2062
+WARNING 2019-10-18 20:22:52,747 log 228 Not Found: /css/news/index.css
+WARNING 2019-10-18 20:22:52,758 log 228 Not Found: /css/base/side.css
+WARNING 2019-10-18 20:22:52,768 log 228 Not Found: /images/youxi.png
+WARNING 2019-10-18 20:22:52,774 log 228 Not Found: /images/ui.png
+WARNING 2019-10-18 20:22:52,816 basehttp 154 "GET /css/base/side.css HTTP/1.1" 404 2056
+WARNING 2019-10-18 20:22:52,819 basehttp 154 "GET /css/news/index.css HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:22:52,820 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2053
+WARNING 2019-10-18 20:22:52,824 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2044
+WARNING 2019-10-18 20:22:53,228 log 228 Not Found: /js/commons.js
+WARNING 2019-10-18 20:22:53,232 log 228 Not Found: /js/index.js
+WARNING 2019-10-18 20:22:53,239 log 228 Not Found: /images/linux.jpg
+WARNING 2019-10-18 20:22:53,246 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-10-18 20:22:53,253 log 228 Not Found: /images/dianshang.png
+WARNING 2019-10-18 20:22:53,257 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-10-18 20:22:53,258 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2044
+WARNING 2019-10-18 20:22:53,260 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2038
+WARNING 2019-10-18 20:22:53,264 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2053
+WARNING 2019-10-18 20:22:53,266 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2068
+WARNING 2019-10-18 20:22:53,267 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2065
+WARNING 2019-10-18 20:22:53,269 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:22:53,330 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-10-18 20:22:53,335 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-10-18 20:22:53,338 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-10-18 20:22:53,344 log 228 Not Found: /images/english.jpg
+WARNING 2019-10-18 20:22:53,345 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2083
+WARNING 2019-10-18 20:22:53,347 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2068
+WARNING 2019-10-18 20:22:53,348 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:22:53,348 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2080
+WARNING 2019-10-18 20:22:53,939 log 228 Not Found: /js/commons.js
+WARNING 2019-10-18 20:22:53,941 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2044
+WARNING 2019-10-18 20:22:53,955 log 228 Not Found: /js/index.js
+WARNING 2019-10-18 20:22:53,956 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2038
+INFO 2019-10-18 20:23:04,071 basehttp 154 "GET /index/ HTTP/1.1" 200 16876
+WARNING 2019-10-18 20:23:04,144 log 228 Not Found: /css/base/reset.css
+WARNING 2019-10-18 20:23:04,158 log 228 Not Found: /css/base/common.css
+WARNING 2019-10-18 20:23:04,165 log 228 Not Found: /css/news/index.css
+WARNING 2019-10-18 20:23:04,172 log 228 Not Found: /images/youxi.png
+WARNING 2019-10-18 20:23:04,178 log 228 Not Found: /images/ui.png
+WARNING 2019-10-18 20:23:04,178 basehttp 154 "GET /css/base/reset.css HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:23:04,185 log 228 Not Found: /css/base/side.css
+WARNING 2019-10-18 20:23:04,186 basehttp 154 "GET /css/base/common.css HTTP/1.1" 404 2062
+WARNING 2019-10-18 20:23:04,188 basehttp 154 "GET /css/news/index.css HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:23:04,190 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2053
+WARNING 2019-10-18 20:23:04,191 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2044
+WARNING 2019-10-18 20:23:04,192 basehttp 154 "GET /css/base/side.css HTTP/1.1" 404 2056
+WARNING 2019-10-18 20:23:04,379 log 228 Not Found: /js/commons.js
+WARNING 2019-10-18 20:23:04,380 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2044
+WARNING 2019-10-18 20:23:04,389 log 228 Not Found: /js/index.js
+WARNING 2019-10-18 20:23:04,404 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2038
+WARNING 2019-10-18 20:23:04,412 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-10-18 20:23:04,418 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-10-18 20:23:04,425 log 228 Not Found: /images/linux.jpg
+WARNING 2019-10-18 20:23:04,432 log 228 Not Found: /images/dianshang.png
+WARNING 2019-10-18 20:23:04,433 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2068
+WARNING 2019-10-18 20:23:04,441 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-10-18 20:23:04,442 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:23:04,447 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-10-18 20:23:04,448 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2053
+WARNING 2019-10-18 20:23:04,452 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2065
+WARNING 2019-10-18 20:23:04,453 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2080
+WARNING 2019-10-18 20:23:04,455 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2083
+WARNING 2019-10-18 20:23:04,952 log 228 Not Found: /images/english.jpg
+WARNING 2019-10-18 20:23:04,960 log 228 Not Found: /js/commons.js
+WARNING 2019-10-18 20:23:04,964 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:23:04,966 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2044
+WARNING 2019-10-18 20:23:04,972 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-10-18 20:23:04,974 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2068
+WARNING 2019-10-18 20:23:04,987 log 228 Not Found: /js/index.js
+WARNING 2019-10-18 20:23:04,989 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2038
+INFO 2019-10-18 20:23:07,409 basehttp 154 "GET /index/ HTTP/1.1" 200 16876
+WARNING 2019-10-18 20:23:07,485 log 228 Not Found: /css/base/reset.css
+WARNING 2019-10-18 20:23:07,518 log 228 Not Found: /images/youxi.png
+WARNING 2019-10-18 20:23:07,527 log 228 Not Found: /css/base/common.css
+WARNING 2019-10-18 20:23:07,530 basehttp 154 "GET /css/base/reset.css HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:23:07,533 log 228 Not Found: /images/ui.png
+WARNING 2019-10-18 20:23:07,536 log 228 Not Found: /css/news/index.css
+WARNING 2019-10-18 20:23:07,537 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2053
+WARNING 2019-10-18 20:23:07,545 log 228 Not Found: /css/base/side.css
+WARNING 2019-10-18 20:23:07,549 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2044
+WARNING 2019-10-18 20:23:07,549 basehttp 154 "GET /css/news/index.css HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:23:07,551 basehttp 154 "GET /css/base/common.css HTTP/1.1" 404 2062
+WARNING 2019-10-18 20:23:07,553 basehttp 154 "GET /css/base/side.css HTTP/1.1" 404 2056
+WARNING 2019-10-18 20:23:07,658 log 228 Not Found: /js/index.js
+WARNING 2019-10-18 20:23:07,679 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2038
+WARNING 2019-10-18 20:23:07,680 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-10-18 20:23:07,692 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-10-18 20:23:07,693 log 228 Not Found: /js/commons.js
+WARNING 2019-10-18 20:23:07,701 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:23:07,705 log 228 Not Found: /images/dianshang.png
+WARNING 2019-10-18 20:23:07,711 log 228 Not Found: /images/linux.jpg
+WARNING 2019-10-18 20:23:07,712 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2068
+WARNING 2019-10-18 20:23:07,718 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-10-18 20:23:07,720 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2044
+WARNING 2019-10-18 20:23:07,722 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2065
+WARNING 2019-10-18 20:23:07,724 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2053
+WARNING 2019-10-18 20:23:07,726 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2083
+WARNING 2019-10-18 20:23:07,759 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-10-18 20:23:07,760 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2080
+WARNING 2019-10-18 20:23:07,773 log 228 Not Found: /images/english.jpg
+WARNING 2019-10-18 20:23:07,776 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:23:07,788 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-10-18 20:23:07,790 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2068
+WARNING 2019-10-18 20:23:07,804 log 228 Not Found: /js/index.js
+WARNING 2019-10-18 20:23:07,806 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2038
+INFO 2019-10-18 20:28:22,880 basehttp 154 "GET /index/ HTTP/1.1" 200 16896
+INFO 2019-10-18 20:28:22,955 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+INFO 2019-10-18 20:28:22,957 basehttp 154 "GET /static/css/base/reset.css HTTP/1.1" 200 1427
+INFO 2019-10-18 20:28:22,961 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+INFO 2019-10-18 20:28:22,978 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+WARNING 2019-10-18 20:28:22,990 log 228 Not Found: /images/ui.png
+WARNING 2019-10-18 20:28:23,002 log 228 Not Found: /images/youxi.png
+WARNING 2019-10-18 20:28:23,003 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2044
+WARNING 2019-10-18 20:28:23,005 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2053
+WARNING 2019-10-18 20:28:23,226 log 228 Not Found: /js/commons.js
+WARNING 2019-10-18 20:28:23,236 log 228 Not Found: /js/index.js
+WARNING 2019-10-18 20:28:23,244 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2044
+WARNING 2019-10-18 20:28:23,255 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-10-18 20:28:23,262 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-10-18 20:28:23,268 log 228 Not Found: /images/dianshang.png
+WARNING 2019-10-18 20:28:23,277 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-10-18 20:28:23,280 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2038
+WARNING 2019-10-18 20:28:23,283 log 228 Not Found: /images/linux.jpg
+WARNING 2019-10-18 20:28:23,285 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2068
+WARNING 2019-10-18 20:28:23,286 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:28:23,287 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2065
+WARNING 2019-10-18 20:28:23,297 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-10-18 20:28:23,298 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2083
+WARNING 2019-10-18 20:28:23,300 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2053
+WARNING 2019-10-18 20:28:23,305 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2080
+WARNING 2019-10-18 20:28:23,320 log 228 Not Found: /images/english.jpg
+WARNING 2019-10-18 20:28:23,322 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2059
+WARNING 2019-10-18 20:28:23,335 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-10-18 20:28:23,337 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2068
+WARNING 2019-10-18 20:28:23,387 log 228 Not Found: /js/commons.js
+WARNING 2019-10-18 20:28:23,389 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2044
+INFO 2019-10-18 20:28:23,407 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+WARNING 2019-10-18 20:28:23,572 log 228 Not Found: /js/index.js
+WARNING 2019-10-18 20:28:23,577 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2038
+INFO 2019-10-18 20:34:25,823 basehttp 154 "GET /index/ HTTP/1.1" 200 16976
+INFO 2019-10-18 20:34:25,917 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-10-18 20:34:25,923 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+WARNING 2019-10-18 20:34:26,238 log 228 Not Found: /js/index.js
+WARNING 2019-10-18 20:34:26,248 log 228 Not Found: /js/commons.js
+WARNING 2019-10-18 20:34:26,251 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2038
+WARNING 2019-10-18 20:34:26,258 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2044
+INFO 2019-10-18 20:34:26,269 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+INFO 2019-10-18 20:34:26,285 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-10-18 20:34:26,286 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-10-18 20:34:26,294 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-10-18 20:34:26,305 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-10-18 20:34:26,307 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+INFO 2019-10-18 20:34:26,316 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-10-18 20:34:26,358 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+WARNING 2019-10-18 20:34:26,450 log 228 Not Found: /js/commons.js
+WARNING 2019-10-18 20:34:26,452 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2044
+WARNING 2019-10-18 20:34:26,519 log 228 Not Found: /js/index.js
+WARNING 2019-10-18 20:34:26,522 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2038
+INFO 2019-10-18 20:35:31,612 basehttp 154 "GET /index/ HTTP/1.1" 200 16986
+INFO 2019-10-18 20:35:31,808 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
+INFO 2019-10-18 20:35:31,809 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+WARNING 2019-10-18 20:35:47,090 log 228 Not Found: /users/login.html
+WARNING 2019-10-18 20:35:47,092 basehttp 154 "GET /users/login.html HTTP/1.1" 404 2053
+INFO 2019-10-18 20:36:24,042 basehttp 154 "GET /index/ HTTP/1.1" 200 16989
+INFO 2019-10-18 20:59:27,814 basehttp 154 "GET /index/ HTTP/1.1" 200 16958
